@@ -36,7 +36,7 @@ ol, ul {
     list-style: none;
 }
 
-/* Removing defaults sstyles for quotes */    
+/* Removing defaults styles for quotes */    
 blockquote, q {
     quotes: none;
 }
@@ -58,7 +58,7 @@ table {
     border-spacing: 0;
 }
 
-/* Changinh default img properties for easier workflow */
+/* Changing default img properties for easier workflow */
 img, picture {
     max-width: 100%;
     display: block;
