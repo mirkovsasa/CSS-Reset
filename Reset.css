@@ -1,6 +1,6 @@
 /* CSS Reset by Mirkov Sasa */
 
-/* Resesting defaults & minimize inheritance but keep essential structure */
+/* Resesting defaults */
 * {
     margin: 0;
     padding: 0;
@@ -9,8 +9,6 @@
     font-size: 100%;
     vertical-align: baseline;
     background: transparent;
-    all: unset;
-    display: revert;
 }
 
 /* Setting border box model for easier sizing of elements */
